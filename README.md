@@ -1,7 +1,7 @@
 # common-schemas
 
 ```bash
-npm i @dcl/schemas
+npm i @tcl/schemas
 ```
 
 ### Design considerations
