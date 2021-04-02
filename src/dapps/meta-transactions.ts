@@ -6,7 +6,7 @@ import { generateValidator, JSONSchema, ValidateFunction } from '../validation'
  */
 export type MetaTransaction = {
   from: string
-  params: [string, string] // manaAddress, txData
+  params: [string, string] // teloAddress, txData
 }
 
 /**

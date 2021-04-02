@@ -1,8 +1,9 @@
 {
-  "version": "0.0.0",
-  "name": "@tcl/schemas",
+  "version": "0.0.3",
+  "name": "tw-schemas",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
+  "author": "npm@telesto.world",
   "license": "Apache-2.0",
   "scripts": {
     "build": "tsc -p tsconfig.json",
